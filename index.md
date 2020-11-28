@@ -4,7 +4,7 @@ Hola! Mi nombre es Vanessa Chinchilla, profesional en estadística. A continuaci
 
 ## Proyectos
 
-#[Calentamiento] (https://nbviewer.jupyter.org/github/VanessaChinchilla/NLP-Repositorio/blob/master/Taller1.4.ipynb) 
+###[Calentamiento] (https://nbviewer.jupyter.org/github/VanessaChinchilla/NLP-Repositorio/blob/master/Taller1.4.ipynb) 
 
 Bueno, para empezar a entender y familiariazrse con el tema se decide iniciar realizando un conteo de palabras, con el fin de hallar las más frecuentes de un archivo determinado.
 
